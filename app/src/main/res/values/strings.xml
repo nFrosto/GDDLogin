@@ -3,7 +3,11 @@
     <string name="recuperar_contrase_a">Recuperar contraseña</string>
     <string name="sesionstart">Inicia sesión</string>
     <string name="contrase_a">Contraseña</string>
-    <string name="email">Email</string>
+    <string name="email">Username</string>
     <string name="loginimage">loginimage</string>
-    <string name="ayuda">Ayuda</string>
+    <string name="contacto">Contacto</string>
+    <string name="asunto">Asunto</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="mail_personal">Email personal</string>
+    <string name="enviar">Enviar</string>
 </resources>
